@@ -1,0 +1,67 @@
+D:\Никита\МАМА\Интерфейс и програмаа\programm\bin\Debug\programm.exe.config
+D:\Никита\МАМА\Интерфейс и програмаа\programm\bin\Debug\programm.exe
+D:\Никита\МАМА\Интерфейс и програмаа\programm\bin\Debug\programm.pdb
+D:\Никита\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.csprojAssemblyReference.cache
+D:\Никита\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.Form1.resources
+D:\Никита\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.Properties.Resources.resources
+D:\Никита\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.GenerateResource.cache
+D:\Никита\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.CoreCompileInputs.cache
+D:\Никита\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.exe
+D:\Никита\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\bin\Debug\programm.exe.config
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\bin\Debug\programm.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\bin\Debug\programm.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.csprojAssemblyReference.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.Form1.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.Properties.Resources.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.GenerateResource.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.CoreCompileInputs.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Debug\programm.FormEdit.resources
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\bin\Debug\programm.exe.config
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\bin\Debug\programm.exe
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\bin\Debug\programm.pdb
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Debug\programm.csprojAssemblyReference.cache
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Debug\programm.Form1.resources
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Debug\programm.FormEdit.resources
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Debug\programm.Properties.Resources.resources
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.GenerateResource.cache
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Debug\programm.exe
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Debug\programm.pdb
+D:\Интерфейс и програмаа\programm\bin\Debug\programm.exe.config
+D:\Интерфейс и програмаа\programm\bin\Debug\programm.exe
+D:\Интерфейс и програмаа\programm\bin\Debug\programm.pdb
+D:\Интерфейс и програмаа\programm\obj\Debug\programm.csprojAssemblyReference.cache
+D:\Интерфейс и програмаа\programm\obj\Debug\programm.Form1.resources
+D:\Интерфейс и програмаа\programm\obj\Debug\programm.FormEdit.resources
+D:\Интерфейс и програмаа\programm\obj\Debug\programm.Properties.Resources.resources
+D:\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.GenerateResource.cache
+D:\Интерфейс и програмаа\programm\obj\Debug\programm.exe
+D:\Интерфейс и програмаа\programm\obj\Debug\programm.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.csprojAssemblyReference.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.Form1.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.FormEdit.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.Properties.Resources.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.GenerateResource.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.csproj.CoreCompileInputs.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.FormEditTags.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\programm.ConfirmForm.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\bin\Debug\TrTagVerifier.exe.config
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\bin\Debug\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\bin\Debug\TrTagVerifier.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Debug\TrTagVerifier.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\bin\Debug\TrTagVerifier.exe.config
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\bin\Debug\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\bin\Debug\TrTagVerifier.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.csprojAssemblyReference.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.ConfirmForm.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.Form1.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.FormEdit.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.FormEditTags.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.Properties.Resources.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.csproj.GenerateResource.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\programm.csproj.CoreCompileInputs.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Debug\TrTagVerifier.pdb
