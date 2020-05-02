@@ -1,0 +1,46 @@
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\bin\Release\programm.exe.config
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\bin\Release\programm.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\bin\Release\programm.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Release\programm.Form1.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Release\programm.FormEdit.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Release\programm.Properties.Resources.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Release\programm.csproj.GenerateResource.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Release\programm.csproj.CoreCompileInputs.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Release\programm.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\programm\obj\Release\programm.pdb
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\bin\Release\programm.exe.config
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\bin\Release\programm.exe
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\bin\Release\programm.pdb
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Release\programm.csprojAssemblyReference.cache
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Release\programm.Form1.resources
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Release\programm.FormEdit.resources
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Release\programm.Properties.Resources.resources
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Release\programm.csproj.GenerateResource.cache
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Release\programm.exe
+C:\Users\Nikita\Documents\Nikita\Компьютерная лингвистика\Интерфейс и програмаа\programm\obj\Release\programm.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.csprojAssemblyReference.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.ConfirmForm.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.Form1.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.FormEdit.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.FormEditTags.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.Properties.Resources.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.csproj.GenerateResource.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\programm.csproj.CoreCompileInputs.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\bin\Release\TrTagVerifier.exe.config
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\bin\Release\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\bin\Release\TrTagVerifier.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm\obj\Release\TrTagVerifier.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\bin\Release\TrTagVerifier.exe.config
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\bin\Release\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\bin\Release\TrTagVerifier.pdb
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.csprojAssemblyReference.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.ConfirmForm.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.Form1.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.FormEdit.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.FormEditTags.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.Properties.Resources.resources
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.csproj.GenerateResource.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\programm.csproj.CoreCompileInputs.cache
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\TrTagVerifier.exe
+D:\Nikita\МАМА\Интерфейс и програмаа\Интерфейс и програмаа\programm — копия\obj\Release\TrTagVerifier.pdb
